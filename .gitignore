@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Kotlin
+.kotlin/
+.kotlin-module
+.kotlin_module
+
+# IntelliJ
+.idea/
