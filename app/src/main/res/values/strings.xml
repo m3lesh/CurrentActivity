@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Current Activity</string>
+    <string name="accessibility_service_description">Service to detect current activity</string>
+    <string name="overlay_text">Package:\n%1$s\n\nActivity:\n%2$s</string>
+    <string name="overlay_title">Current Activity</string>
+    <string name="overlay_close">✕</string>
+    <string name="overlay_recent_title">Last 10 Activities</string>
+    <string name="overlay_copied">Copied</string>
+    <string name="package_text">Package: %1$s</string>
+    <string name="activity_text">Activity: %1$s</string>
+</resources>
