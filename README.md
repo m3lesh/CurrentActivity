@@ -63,7 +63,17 @@
 
 ## 📸 Screenshots / لقطات شاشة
 
-*(Add screenshots here if available / أضف لقطات الشاشة هنا إن وجدت)*
+<!--
+Place your screenshot images in the 'screenshots' folder.
+ضع صور لقطات الشاشة في مجلد 'screenshots'.
+-->
+
+<p align="center">
+  <!-- Replace 'screenshot1.png' with your image filename / استبدل اسم الملف باسم صورتك -->
+  <img src="screenshots/Screenshot.PNG" width="250" alt="Screenshot 1" />
+  &nbsp;&nbsp;&nbsp;
+  
+</p>
 
 ---
 
